@@ -11,10 +11,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "body-parser": "^1.18.2",
+    "morgan": "^1.9.0",
+    "sequelize": "^4.32.2",
     "webpack": "^3.6.0"
   },
   "dependencies": {
-    "mapbox-gl": "^0.40.1"
+    "express": "^4.16.2",
+    "mapbox-gl": "^0.40.1",
+    "path": "^0.12.7",
+    "pg": "^6.4.2",
+    "pg-hstore": "^2.3.2"
   },
   "description": ""
 }
